@@ -44,8 +44,22 @@ files.forEach(file => {
 ---
 
 ## Education
+
+ * [Java Rush](https://javarush.ru/) (2019)
+ * Java Web Development Training (Epam, 2019 - 2020)
+ * Software Development Training (Itransition, 2020)
+ * [SymfonyCasts](https://symfonycasts.com/) (2020)
  * BSUIR (Faculty of Infocommunications, 2022)
- * Java Web Development Training (Epam, 2020)
+ * [RSSchool](https://rs.school/) (In progress)
+
+
+---
+
+## Experience
+
+ * TerraMach (Java Developer, 2020 - 2021)
+ * Itransition (PHP Developer, 2020 - 2022)
+ * EPAM Systems (Java Developer, 2022 - Now)
 
 ---
 
