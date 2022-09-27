@@ -11,12 +11,14 @@
 
 ### Skills and Proficiency:
 
-- PHP 7+, Symfony Framework, API Platform 
-- Java 8+, Spring
+- PHP 7+, Symfony Framework 4+, API Platform, Admin Bundle, Composer
+- Java 8+, Spring, JPA, Java EE, JDBC, Maven, Gradle
 - HTML5, CSS3, Js
 - IntelliJ IDEA, PHP Storm, VS Code  
 - MySQL, PostgreSQL
-- Docker
+- Docker, K8s
+- Jenkins, TeamCity
+- Sentry, Kibana
 
 ---
 
