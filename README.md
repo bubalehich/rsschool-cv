@@ -1,1 +1,1 @@
-# rsschool-cv
+https://bubalehich.github.io/rsschool-cv/
